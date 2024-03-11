@@ -1,0 +1,17 @@
+{
+    "name": "hels/test",
+    "autoload": {
+        "psr-4": {
+            "Hels\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sasha",
+            "email": "kharchenkowrk@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
